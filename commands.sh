@@ -19,3 +19,5 @@ ls --help
 echo now running script with the "-f" option again
 whoami
 pwd
+ls
+ls -F
