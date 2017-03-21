@@ -738,4 +738,6 @@ Report ls bugs to bug-coreutils@gnu.org
 GNU coreutils home page: <http://www.gnu.org/software/coreutils/>
 General help using GNU software: <http://www.gnu.org/gethelp/>
 For complete documentation, run: info coreutils 'ls invocation'
-]0;elinde@30YVT12: ~elinde@30YVT12:~$
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ exit
+
+Script done on Tue 21 Mar 2017 10:12:09 AM CDT

@@ -14,3 +14,4 @@ ls
 ls -F
 ls -F
 ls --help
+script -a ~/${REPO_NAME}/full_terminal.sh
