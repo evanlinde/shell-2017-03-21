@@ -6,3 +6,4 @@ ls
 ls -F
 ls --help
 script -af ~/${REPO_NAME}/full_terminal.sh
+ls --help
