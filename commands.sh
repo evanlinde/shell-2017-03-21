@@ -8,3 +8,4 @@ pwd
 ls
 ls -f
 ls -F
+ls --help
