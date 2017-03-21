@@ -1,1 +1,9 @@
 export PROMPT_COMMAND="history 1 | sed 's/^\ *[0-9]\+\ \+//' >> ~/${REPO_NAME}/commands.txt"
+ls --help
+whoami
+pwd
+ls
+ls -F
+ls --help
+man ls
+script -af ~/${REPO_NAME}/full_terminal.script
