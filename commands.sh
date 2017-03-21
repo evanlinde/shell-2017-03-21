@@ -10,3 +10,4 @@ ls --help
 echo now not using the "-f" option for script
 whoami
 pwd
+ls
