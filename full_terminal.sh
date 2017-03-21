@@ -742,4 +742,6 @@ For complete documentation, run: info coreutils 'ls invocation'
 
 Script done on Tue 21 Mar 2017 10:12:09 AM CDT
 Script started on Tue 21 Mar 2017 10:14:25 AM CDT
-]0;elinde@30YVT12: ~elinde@30YVT12:~$ echo now run
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ echo now running script with the -[K"-f" option again
+now running script with the -f option again
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ 
