@@ -11,3 +11,4 @@ echo now not using the "-f" option for script
 whoami
 pwd
 ls
+ls -F
