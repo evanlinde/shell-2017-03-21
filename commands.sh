@@ -12,3 +12,5 @@ whoami
 pwd
 ls
 ls -F
+ls -F
+ls --help
