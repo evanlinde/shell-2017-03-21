@@ -741,3 +741,5 @@ For complete documentation, run: info coreutils 'ls invocation'
 ]0;elinde@30YVT12: ~elinde@30YVT12:~$ exit
 
 Script done on Tue 21 Mar 2017 10:12:09 AM CDT
+Script started on Tue 21 Mar 2017 10:14:25 AM CDT
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ echo now run
