@@ -5,12 +5,30 @@
   <script>
 $(document).ready(function(){
     $("#full_terminal").load("full_terminal.html");
-    $("#commands").load("commands.txt");
+    //$("#commands").load("commands.txt");
+    $("#commands").hide();
+
+    $("#nav_terminal").click(function(){
+        $("#commands").hide();
+        $("#full_terminal").load("full_terminal.html");
+        $("#full_terminal").show();
+    });
+
+    $("#nav_commands").click(function(){
+        $("#full_terminal").hide();
+        $("#commands").load("commands.txt");
+        $("#commands").show();
+    });
 });
   </script>
 </head>
 <body>
-<div id="full_terminal"></div>
-<div id="commands_div"><pre id="commands"></pre></div>
+  <header>
+    <nav>
+      <a href="" id="nav_terminal">Full Terminal</a> | <a href="" id="nav_commands">Commands</a>
+    </nav>
+  </header>
+  <div id="full_terminal"></div>
+  <div id="commands_div"><pre id="commands"></pre></div>
 </body>
 </html>

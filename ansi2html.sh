@@ -34,6 +34,10 @@
 #                         Strip more terminal control codes.
 #    V0.23, 28 Feb 2016
 #      http://github.com/pixelb/scripts/commits/master/scripts/ansi2html.sh
+#    V0.24, 31 Mar 2017
+#                         Add class to pre tag in addition to body so the
+#                         complete html can be imported into a div and keep
+#                         the correct style.
 
 gawk --version >/dev/null || exit 1
 
@@ -193,7 +197,7 @@ span { display: inline-block; }
 </head>
 
 <body class="f9 b9">
-<pre>
+<pre class="f9 b9">
 '
 [ "$body_only" ] && printf '%s\n' 'Be sure to use <body class="f9 b9"> and <pre>' >&2
 
