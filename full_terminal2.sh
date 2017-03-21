@@ -231,4 +231,86 @@ macav2livneh_huss_bcc-csm1-1_r1i1p1_historical_1990_2005_CONUS_daily.nc
 mactel-boot-0.9/
 mactel-boot-0.9.tar.bz2
 missfont.log
-Mu
+Music/
+Pictures/
+Public/
+reject_invalid_sets.sh*
+reject_invalid_sets.sh~*
+script.txt
+shell-2017-03-21/
+sign2.pdf
+sign.odt
+sign.pdf
+sums2.ods
+sums2.txt
+sums_of_3_squares_count.old.txt
+sums_of_3_squares_count.txt
+sums_of_3_squares.csv
+sums_of_3_squares.sh*
+sums_of_3_squares.sh~*
+sums_of_squares (copy).csv
+sums_of_squares (copy).ods
+sums_of_squares.csv
+sums_of_squares.sh*
+sums_of_squares.sh~*
+sums.txt
+Templates/
+test-repo/
+Videos/
+VirtualBox VMs/
+vmware/
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ ls --help
+Usage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      scale sizes by SIZE before printing them.  E.g.,
+                               '--block-size=M' prints sizes in units of
+                               1,048,576 bytes.  See SIZE format below.
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                               modification of file status information)
+                               with -l: show ctime and sort by name
+                               otherwise: sort by ctime, newest first
+  -C                         list entries by columns
+      --color[=WHEN]         colorize the output.  WHEN defaults to 'always'
+                               or can be 'never' or 'auto'.  More info below
+  -d, --directory            list directory entries instead of contents,
+                               and do not dereference symbolic links
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         do not sort, enable -aU, disable -ls --color
+  -F, --classify             append indicator (one of */=>@|) to entries
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                               single-column -1, verbose -l, vertical -C
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files.
+                               augment with a --sort option, but any
+                               use of --sort=none (-U) disables grouping
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l, print sizes in human readable format
+                               (e.g., 1K 234M 2G)
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                             that points to a directory
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                               (overridden by -a or -A)
+      --indicator-style=WORD  append indicator with style WORD to entry names:
+                               none (default), slash (-p),
+                               file-type (--file-type), classify (-F)
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            use 1024-byte blocks
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                               link, show informatio
