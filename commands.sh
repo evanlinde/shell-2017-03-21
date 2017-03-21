@@ -8,3 +8,5 @@ ls --help
 script -af ~/${REPO_NAME}/full_terminal.sh
 ls --help
 echo now not using the "-f" option for script
+whoami
+pwd
