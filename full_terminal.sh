@@ -746,4 +746,6 @@ Script started on Tue 21 Mar 2017 10:14:25 AM CDT
 now running script with the -f option again
 ]0;elinde@30YVT12: ~elinde@30YVT12:~$ whoami
 elinde
+]0;elinde@30YVT12: ~elinde@30YVT12:~$ pwd
+/home/elinde
 ]0;elinde@30YVT12: ~elinde@30YVT12:~$ 

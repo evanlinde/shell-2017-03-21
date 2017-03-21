@@ -18,3 +18,4 @@ script -a ~/${REPO_NAME}/full_terminal.sh
 ls --help
 echo now running script with the "-f" option again
 whoami
+pwd
